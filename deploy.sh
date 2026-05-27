@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="project-5d4c4265-7c9f-4360-999"
+PROJECT_ID="project-c673d6fc-864e-4177-a5a"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

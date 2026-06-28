@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="macro-depot-500501-q2"
+PROJECT_ID="project-3384b89b-4b44-4e08-970"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

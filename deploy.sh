@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="project-55ea68e4-7cc9-4b80-964"
+PROJECT_ID="aliproduct-479218"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

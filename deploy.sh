@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="aliproduct-479218"
+PROJECT_ID="ornate-spring-501408-h5"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

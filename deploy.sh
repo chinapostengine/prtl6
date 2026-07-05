@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="ornate-spring-501408-h5"
+PROJECT_ID="planar-momentum-501418-i3"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="planar-momentum-501418-i3"
+PROJECT_ID="project-b5966cec-f5ca-436b-90a"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

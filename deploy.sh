@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="project-b5966cec-f5ca-436b-90a"
+PROJECT_ID="festive-oxide-501914-g1"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

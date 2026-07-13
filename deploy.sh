@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="festive-oxide-501914-g1"
+PROJECT_ID="pragmatic-aegis-502214-a7"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

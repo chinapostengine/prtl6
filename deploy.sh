@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="pragmatic-aegis-502214-a7"
+PROJECT_ID="impressive-tome-502407-t9"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"

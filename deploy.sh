@@ -4,7 +4,7 @@ set -e  # Exit immediately if any command fails
 # -------------------------------
 # Configuration
 # -------------------------------
-PROJECT_ID="serious-sublime-502810-b3"
+PROJECT_ID="project-8a0de5a9-27b3-4235-ac2"
 REGION="europe-west4"
 IMAGE_NAME="pl"
 REPO_NAME="main-repo"
